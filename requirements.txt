@@ -1,0 +1,7 @@
+nltk==3.4.5
+numpy==1.18.1
+tflearn==0.3.2.
+tensorflow==1.4.0
+
+scipy==1.5.2
+windows-curses==1.0
